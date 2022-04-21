@@ -1,4 +1,4 @@
-BUILD_NAME=es_bulk
+BUILD_NAME=tdi-group
 SOURCE=main.go
 
 .PHONY: build clean 
